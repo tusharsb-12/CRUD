@@ -1,2 +1,2 @@
 # CRUD
-A simple CRUD application using typescript, graphql, apollo-server and postgresql
+A simple CRUD application using Typescript, GraphQL, Apollo-server and PostgreSQL  
