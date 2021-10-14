@@ -15,6 +15,7 @@ const main = async () => {
         await createConnection({
             type: 'postgres',
             host: 'localhost',
+            database: 'crud-db',
             port: 5432,
             username: 'postgres',
             password: '1208',
